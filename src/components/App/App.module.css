@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  width: 100px;
+}
+
+.text {
+  margin-top: 36px;
+  font: bold 42px monospace;
+  text-transform: uppercase;
+  transform: skew(-12deg, -4deg);
+}
